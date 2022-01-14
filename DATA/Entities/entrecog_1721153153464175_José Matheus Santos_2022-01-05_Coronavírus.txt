@@ -1,0 +1,3 @@
+,articleId,author,date,edit,entity,type,entity_index,FirstName,FamilyName,first_name,classification,quote
+0,1721153153464175,José Matheus Santos,2022-01-05,Coronavírus,Lupércio Nascimento,PER,11,LUPERCIO,Nascimento,LUPERCIO,M,
+1,1721153153464175,José Matheus Santos,2022-01-05,Coronavírus,Lupércio,PER,12,LUPERCIO,,LUPERCIO,M,12.0

@@ -1,0 +1,4 @@
+,articleId,author,date,edit,entity,type,entity_index,FirstName,FamilyName,first_name,classification,quote
+0,1721122587219657,Luís Costa,2022-01-05,Rio de Janeiro,Christian Fernandes,PER,8.0,CHRISTIAN,Fernandes,CHRISTIAN,M,
+1,1721122587219657,Luís Costa,2022-01-05,Rio de Janeiro,Fernandes,PER,12.0,FERNANDES,,FERNANDES,M,
+2,1721122587219657,Luís Costa,2022-01-05,Rio de Janeiro,Laiza Araújo,PER,29.0,LAIZA,Araújo,LAIZA,F,

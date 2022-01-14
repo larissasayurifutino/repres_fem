@@ -1,0 +1,8 @@
+,articleId,author,date,edit,entity,type,entity_index,FirstName,FamilyName,first_name,classification,quote
+0,1721034292748976,Isac Godinho,2022-01-06,Folhajus,Kassio Nunes Marques,PER,3,KASSIO,Nunes Marques,KASSIO,M,
+1,1721034292748976,Isac Godinho,2022-01-06,Folhajus,Adriana Campos,PER,4,ADRIANA,Campos,ADRIANA,F,
+2,1721034292748976,Isac Godinho,2022-01-06,Folhajus,Adriana,PER,15,ADRIANA,,ADRIANA,F,12.0
+3,1721034292748976,Isac Godinho,2022-01-06,Folhajus,Adriana,PER,15,ADRIANA,,ADRIANA,F,15.0
+4,1721034292748976,Isac Godinho,2022-01-06,Folhajus,Adriana Campos,PER,20,ADRIANA,Campos,ADRIANA,F,
+5,1721034292748976,Isac Godinho,2022-01-06,Folhajus,Nunes Marques,PER,16,NUNES,Marques,NUNES,M,18.0
+6,1721034292748976,Isac Godinho,2022-01-06,Folhajus,Alexandre de Moraes,PER,26,ALEXANDRE,de Moraes,ALEXANDRE,M,24.0

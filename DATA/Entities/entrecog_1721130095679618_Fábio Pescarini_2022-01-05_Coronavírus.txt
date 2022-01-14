@@ -1,0 +1,17 @@
+,articleId,author,date,edit,entity,type,entity_index,FirstName,FamilyName,first_name,classification,quote
+0,1721130095679618,Fábio Pescarini,2022-01-05,Coronavírus,Ricardo Nunes,PER,3.0,RICARDO,Nunes,RICARDO,M,
+1,1721130095679618,Fábio Pescarini,2022-01-05,Coronavírus,Ricardo Nunes,PER,5.0,RICARDO,Nunes,RICARDO,M,6.0
+2,1721130095679618,Fábio Pescarini,2022-01-05,Coronavírus,Edson Aparecido,PER,12.0,EDSON,Aparecido,EDSON,M,10.0
+3,1721130095679618,Fábio Pescarini,2022-01-05,Coronavírus,Edson Aparecido,PER,12.0,EDSON,Aparecido,EDSON,M,11.0
+4,1721130095679618,Fábio Pescarini,2022-01-05,Coronavírus,Edson Aparecido,PER,12.0,EDSON,Aparecido,EDSON,M,13.0
+5,1721130095679618,Fábio Pescarini,2022-01-05,Coronavírus,Nunes,PER,15.0,NUNES,,NUNES,M,14.0
+6,1721130095679618,Fábio Pescarini,2022-01-05,Coronavírus,Nunes,PER,32.0,NUNES,,NUNES,M,30.0
+7,1721130095679618,Fábio Pescarini,2022-01-05,Coronavírus,Nunes,PER,32.0,NUNES,,NUNES,M,31.0
+8,1721130095679618,Fábio Pescarini,2022-01-05,Coronavírus,Nunes,PER,32.0,NUNES,,NUNES,M,32.0
+9,1721130095679618,Fábio Pescarini,2022-01-05,Coronavírus,Nunes,PER,34.0,NUNES,,NUNES,M,
+10,1721130095679618,Fábio Pescarini,2022-01-05,Coronavírus,Mônica Bergamo,PER,23.0,MONICA,Bergamo,MONICA,F,20.0
+11,1721130095679618,Fábio Pescarini,2022-01-05,Coronavírus,Mônica Bergamo,PER,23.0,MONICA,Bergamo,MONICA,F,23.0
+12,1721130095679618,Fábio Pescarini,2022-01-05,Coronavírus,Mônica Bergamo,PER,23.0,MONICA,Bergamo,MONICA,F,24.0
+13,1721130095679618,Fábio Pescarini,2022-01-05,Coronavírus,Aparecido,PER,35.0,APARECIDO,,APARECIDO,M,
+14,1721130095679618,Fábio Pescarini,2022-01-05,Coronavírus,Aparecido,PER,,APARECIDO,,APARECIDO,M,
+15,1721130095679618,Fábio Pescarini,2022-01-05,Coronavírus,Jean Gorinchteyn,PER,,JEAN,Gorinchteyn,JEAN,M,

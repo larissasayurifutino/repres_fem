@@ -1,0 +1,4 @@
+,articleId,author,date,edit,entity,type,entity_index,FirstName,FamilyName,first_name,classification,quote
+0,1721155128269049,Isabella Menon,2022-01-05,Coronavírus,Thais Haliski,PER,5,THAIS,Haliski,THAIS,F,5.0
+1,1721155128269049,Isabella Menon,2022-01-05,Coronavírus,Mônica Bergamo,PER,6,MONICA,Bergamo,MONICA,F,
+2,1721155128269049,Isabella Menon,2022-01-05,Coronavírus,Ricardo Nunes,PER,16,RICARDO,Nunes,RICARDO,M,
