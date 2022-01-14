@@ -1,0 +1,29 @@
+,articleId,author,date,edit,entity,type,entity_index,FirstName,FamilyName,first_name,classification,quote
+0,172159811189613,Rogério Pagnan AND Artur Rodrigues,10-01-2022,Cotidiano,José Aparecido Alves Filho,PER,1.0,JOSE,Aparecido Alves Filho,JOSE,M,
+1,172159811189613,Rogério Pagnan AND Artur Rodrigues,10-01-2022,Cotidiano,José Aparecido,PER,6.0,JOSE,Aparecido,JOSE,M,
+2,172159811189613,Rogério Pagnan AND Artur Rodrigues,10-01-2022,Cotidiano,José Aparecido,PER,17.0,JOSE,Aparecido,JOSE,M,
+3,172159811189613,Rogério Pagnan AND Artur Rodrigues,10-01-2022,Cotidiano,José Aparecido,PER,18.0,JOSE,Aparecido,JOSE,M,
+4,172159811189613,Rogério Pagnan AND Artur Rodrigues,10-01-2022,Cotidiano,José Aparecido,PER,21.0,JOSE,Aparecido,JOSE,M,24.0
+5,172159811189613,Rogério Pagnan AND Artur Rodrigues,10-01-2022,Cotidiano,José Aparecido,PER,34.0,JOSE,Aparecido,JOSE,M,
+6,172159811189613,Rogério Pagnan AND Artur Rodrigues,10-01-2022,Cotidiano,José Aparecido,PER,45.0,JOSE,Aparecido,JOSE,M,
+7,172159811189613,Rogério Pagnan AND Artur Rodrigues,10-01-2022,Cotidiano,José Aparecido,PER,49.0,JOSE,Aparecido,JOSE,M,48.0
+8,172159811189613,Rogério Pagnan AND Artur Rodrigues,10-01-2022,Cotidiano,José Henrique Vettori,PER,50.0,JOSE,Henrique Vettori,JOSE,M,
+9,172159811189613,Rogério Pagnan AND Artur Rodrigues,10-01-2022,Cotidiano,José Aparecido,PER,54.0,JOSE,Aparecido,JOSE,M,
+10,172159811189613,Rogério Pagnan AND Artur Rodrigues,10-01-2022,Cotidiano,José Aparecido,PER,,JOSE,Aparecido,JOSE,M,
+11,172159811189613,Rogério Pagnan AND Artur Rodrigues,10-01-2022,Cotidiano,José Aparecido,PER,,JOSE,Aparecido,JOSE,M,
+12,172159811189613,Rogério Pagnan AND Artur Rodrigues,10-01-2022,Cotidiano,José,PER,,JOSE,,JOSE,M,
+13,172159811189613,Rogério Pagnan AND Artur Rodrigues,10-01-2022,Cotidiano,José Aparecido,PER,,JOSE,Aparecido,JOSE,M,
+14,172159811189613,Rogério Pagnan AND Artur Rodrigues,10-01-2022,Cotidiano,José Aparecido,PER,,JOSE,Aparecido,JOSE,M,
+15,172159811189613,Rogério Pagnan AND Artur Rodrigues,10-01-2022,Cotidiano,Lucas Pereira Moraes Garcia,PER,4.0,LUCAS,Pereira Moraes Garcia,LUCAS,M,
+16,172159811189613,Rogério Pagnan AND Artur Rodrigues,10-01-2022,Cotidiano,Deus,PER,15.0,DEUS,,DEUS,M,
+17,172159811189613,Rogério Pagnan AND Artur Rodrigues,10-01-2022,Cotidiano,Evandro Matias Cruz,PER,16.0,EVANDRO,Matias Cruz,EVANDRO,M,
+18,172159811189613,Rogério Pagnan AND Artur Rodrigues,10-01-2022,Cotidiano,Evandro,PER,53.0,EVANDRO,,EVANDRO,M,53.0
+19,172159811189613,Rogério Pagnan AND Artur Rodrigues,10-01-2022,Cotidiano,Evandro,PER,56.0,EVANDRO,,EVANDRO,M,
+20,172159811189613,Rogério Pagnan AND Artur Rodrigues,10-01-2022,Cotidiano,Evandro,PER,,EVANDRO,,EVANDRO,M,
+21,172159811189613,Rogério Pagnan AND Artur Rodrigues,10-01-2022,Cotidiano,Evandro,PER,,EVANDRO,,EVANDRO,M,
+22,172159811189613,Rogério Pagnan AND Artur Rodrigues,10-01-2022,Cotidiano,Evandro,PER,,EVANDRO,,EVANDRO,M,
+23,172159811189613,Rogério Pagnan AND Artur Rodrigues,10-01-2022,Cotidiano,Evandro,PER,,EVANDRO,,EVANDRO,M,
+24,172159811189613,Rogério Pagnan AND Artur Rodrigues,10-01-2022,Cotidiano,Cruz,PER,19.0,CRUZ,,CRUZ,F,
+25,172159811189613,Rogério Pagnan AND Artur Rodrigues,10-01-2022,Cotidiano,Moraes Garcia,PER,20.0,MORAES,Garcia,MORAES,M,20.0
+26,172159811189613,Rogério Pagnan AND Artur Rodrigues,10-01-2022,Cotidiano,Rogério José Filócomo Júnior,PER,31.0,ROGERIO,José Filócomo Júnior,ROGERIO,M,
+27,172159811189613,Rogério Pagnan AND Artur Rodrigues,10-01-2022,Cotidiano,Edilson Paulo de Souza,PER,52.0,EDILSON,Paulo de Souza,EDILSON,M,

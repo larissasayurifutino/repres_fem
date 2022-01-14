@@ -1,0 +1,4 @@
+,articleId,author,date,edit,entity,type,entity_index,FirstName,FamilyName,first_name,classification,quote
+0,172115224650485,,05-01-2022,Mundo,Kim Jong-Un,PER,4,KIM,Jong-Un,KIM,M,6.0
+1,172115224650485,,05-01-2022,Mundo,Kim Jong-Un,PER,4,KIM,Jong-Un,KIM,M,9.0
+2,172115224650485,,05-01-2022,Mundo,Kim Jong-un,PER,15,KIM,Jong-un,KIM,M,
