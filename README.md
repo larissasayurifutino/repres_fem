@@ -1,6 +1,6 @@
 # repres_fem
 
-# Main aim
+## Main aim
 
 This project aims to:
 
@@ -9,7 +9,7 @@ This project aims to:
 3. to quantify the percentage of quotes that were given by women by journalist and editorial branch (next steps).
 
 
-# How to use it
+## How to use it
 
 ### To get and process data
 
@@ -21,7 +21,7 @@ In case you have a JSON file with thse data run: 02_clean_data.ipynb
 
 Run: 03_entity_recog.ipynb
 
-# Data
+## Data
 
 * The entity recognition step uses a trained model in Portuguese available at *spacy* library.
 
@@ -29,7 +29,7 @@ Run: 03_entity_recog.ipynb
 * The gender recognition step uses data from brazilian names available at: [https://brasil.io/dataset/genero-nomes/nomes/](https://brasil.io/dataset/genero-nomes/nomes/).
 
 
-# Python Libraries
+## Python Libraries
 
 * requests
 
@@ -47,21 +47,21 @@ Run: 03_entity_recog.ipynb
 
 * numpy
 
-# Remarks
+## Remarks
 
 This project was developed in Google colab and hence the code asks for Google Drive access.
 
-# Last update
+## Last update
 
 January 14, 2022
 
 
-# Author
+## Author
 
 Larissa Sayuri Futino Castro dos Santos
 
-# Acknowledment
+## Acknowledment
 
 Many thanks to [@cuducos](https://github.com/cuducos) for the assistance.
 
-Also, many thanks to [@rhhernandes](https://github.com/rhhernandes) who sahres his knowldge, dream and data for this project.
+Also, many thanks to [@rhhernandes](https://github.com/rhhernandes) who shares his knowledge, dream and data for this project.
